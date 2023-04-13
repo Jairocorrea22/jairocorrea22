@@ -1,10 +1,11 @@
-### Olá, eu sou Jairo Corrêa👋
+###Hello, I'm Jairo Corrêa👋
 
+🎓 Production engineer
 
--  🎓 Engenheiro de produção
--  ❤ Amante de tecnologia
-- 🌱 Nesse momento me dedico em aprimorar meus conhecimentos em python e tudo o que envolve o ambiente
-     da engenharia de dados, area em que pretendo atuar.
+❤ Technology lover
+
+🌱 At this moment I dedicate myself in improving my knowledge in python and everything that involves the data engineering environment,
+area in which I intend to work.
 
 
 
