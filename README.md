@@ -1,12 +1,11 @@
-###Hello, I'm Jairo Corrêa👋
+### Hello world, I'm Jairo Corrêa👋
 
 🎓 Production engineer
 
 ❤ Technology lover
 
-🌱 At this moment I dedicate myself in improving my knowledge in python and everything that involves the data environment,
-area in which I intend to work.
-
+🌱 At the moment I am dedicated to improving my knowledge in everything that involves the data environment. From processing, processing, cloud environment, SQL language, python.   
+I hope in the future to accomplish my longed-for career migration to the technology area.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairocorrea22&show_icons=true)
