@@ -4,7 +4,7 @@
 
 ❤ Technology lover
 
-🌱 At this moment I dedicate myself in improving my knowledge in python and everything that involves the data engineering environment,
+🌱 At this moment I dedicate myself in improving my knowledge in python and everything that involves the data environment,
 area in which I intend to work.
 
 
