@@ -4,7 +4,7 @@
 
 ❤ Technology lover
 
-🌱 At the moment I am dedicated to improving my knowledge in everything that involves the data environment. From processing, processing, cloud environment, SQL language, python.   
+🌱 At the moment I am dedicated to improving my knowledge in everything that involves the data environment. From processing, ETL, cloud environment, SQL language, python.   
 I hope in the future to accomplish my longed-for career migration to the technology area.
 
 
